@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.deps.json
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CopyComplete
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\refint\SistemaGestionBusiness.dll
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\Administrador\source\repos\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\ref\SistemaGestionBusiness.dll
